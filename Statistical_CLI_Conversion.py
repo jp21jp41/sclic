@@ -4,9 +4,8 @@ Statistical CLI Conversion
 Justin Pizano
 """
 
+# Import libraries
 import pandas as pnd
-
-
 
 # A dictionary of the functions with their parameters
 function_snapshots = {}
@@ -142,6 +141,7 @@ def choose_columns(column_values):
         
 """
 Function to select statistical operations
+Note: Plans are in place for detailed statistical operations
 """
 def statistical_selector(data, categoricals, rows):
     cat_values = []
