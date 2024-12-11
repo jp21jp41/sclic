@@ -7,4 +7,5 @@ There are less selections, yet they are more broadened: one should be able to se
 There are plans for a vast number of tests to be at the user's disposal. That requires being very attentive to the specifications of the tests as well as the needs of the user; particularly, the dataset still has to be readable, so giving the user the ability to do a variety of different tests to have them all in one dataset is paramount.
 
 The inability to sufficiently run the statistical tests is the biggest barrier to it. The narrow down process so far has a problem in which the columns and rows selected reset every time such that the selection cannot yet be nested (if I had a column of colors and a column of containers and I wanted "blue tupperware", I would only be able to select either all blue containers or all tupperware containers, not both). That with the lack of proper comparison methods unfortunately stops the project in its tracks.
-Note that the project only has one developer, so it takes time to make improvements. That also means the limitations are bound to said one developer. Notes on the project have been updated, and it will be considered a priority.
+
+Note that the project only has one developer, so it takes time to make improvements. That also means the limitations are bound to said one developer.
