@@ -8,6 +8,6 @@ There are plans for a vast number of tests to be at the user's disposal. That re
 
 The inability to sufficiently run the statistical tests is the biggest barrier to it. The narrow down process so far has a problem in which the columns and rows selected reset every time such that the selection cannot yet be nested (if I had a column of colors and a column of containers and I wanted "blue tupperware", I would only be able to select either all blue containers or all tupperware containers, not both). That with the lack of proper comparison methods unfortunately stops the project in its tracks.
 
-It also, of course, is found to be unsafe to use "execution functions" particularly with inputs. There are many issues with such a project that are too limiting for it to be implementable at such a low-level of data automation.
+It also, of course, is found to be unsafe to use "execution functions", particularly with inputs. There are many issues with such a project that are too limiting for it to be implementable at such a low-level of data automation.
 
 Note that the project only has one developer, so it takes time to make improvements. That also means the limitations are bound to said one developer.
